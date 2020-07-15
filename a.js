@@ -1,2 +1,2 @@
-console.log('BBB');
+console.log('CCC');
 console.log('future-A ブランチで追加')
